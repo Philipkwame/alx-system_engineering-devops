@@ -1,2 +1,2 @@
 #!/bin/bash
-tail-n ll my_file /etc/passwd
+tail-n l0 /etc/passwd
